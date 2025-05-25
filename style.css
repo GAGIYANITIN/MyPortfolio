@@ -1,0 +1,112 @@
+
+.name {
+}
+.name:hover {
+    color:gold;
+}
+.skill1 {
+    color: white;
+}
+.skill1:hover {
+    color: gold;
+    
+}
+.language1 {
+    color: white;
+}
+.language1:hover {
+    color: gold;
+}
+.projects1 {
+    color: white;
+}
+.projects1:hover {
+
+    color: gold;
+}
+.profile1 {
+    color: white;
+}
+.profile1:hover {
+    color: gold;
+}
+.parag {
+}
+.po1 {
+}
+.pa1 {
+}
+@keyframes ltr{
+    from{
+        margin-left: 100%;
+    }
+    to{
+        margin-left: 0%;
+    }
+}
+@keyframes fadeInText {
+  0% {
+    opacity: 0;
+    transform: translateY(120px);
+  }
+  100% {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+@keyframes fadeInParagraph {
+  0% {
+    opacity: 0;
+    transform: translateY(50px);
+  }
+  100% {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+.profile {
+}
+.head {
+}
+.anc {
+}
+.po2 {
+}
+.pa2 {
+}
+.skill {
+}
+.po3 {
+}
+.pa3 {
+}
+.language {
+}
+.po4 {
+}
+.pa4 {
+}
+.project {
+}
+.po5 {
+}
+.pa5 {
+}
+
+#bold{
+    color: darksalmon;
+    background: none;
+    border: none;
+}
+#bold1{
+    color: greenyellow;
+    background: none;
+    border: none;
+}
+a {
+    background: none;
+    font-size: xx-large;
+    font-family: sans-serif;
+    color: darkgreen;
+    text-decoration: none;
+}
